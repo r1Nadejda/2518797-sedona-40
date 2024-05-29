@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Nadya](https://up.htmlacademy.ru/htmlcss/40/user/2518797).
-* Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi)
-*Сайт: [Рабочй проект Седона from Nadya](https://r1nadejda.github.io/2518797-sedona-40/)
+* Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
+* Сайт: [Рабочий проект Седона from Nadya](https://r1nadejda.github.io/2518797-sedona-40/)
 
 ---
 
